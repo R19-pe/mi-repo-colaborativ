@@ -1,2 +1,2 @@
-Este es mi archivo inicial
+Cambio realizado en Git Hub
 Edición alumno B
