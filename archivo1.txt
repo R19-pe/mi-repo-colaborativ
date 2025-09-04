@@ -1,2 +1,2 @@
-Este es mi archivo inicial
+Edición desde repositorio Local
 Edición alumno B
